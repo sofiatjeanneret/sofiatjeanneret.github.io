@@ -1,0 +1,45 @@
+p {
+  color: mediumseagreen;
+  background-color: cornsilk;
+  font-family: "Lucidia Console", monospace;
+  color: mediumseagreen;
+
+}
+
+body {
+  background-color: cornsilk;
+}
+
+button {
+  font-size: 16px;
+  background-color: bisque;
+  border-radius: 8px;
+}
+
+#aboutme {
+  background-color: cornsilk;
+  font-size: 12 ;
+  font-family: monospace;
+}
+#righthorse
+{
+  float: right;
+  size: 25%;
+  padding-right: 100px;
+  margin-top: -160px;
+
+}
+#lefthorse
+{
+  float: left;
+  size: 25%;
+  padding-left: 100px;
+  margin-top: 70px;
+}
+.centerphoto
+{
+  display: block;
+  align: center;
+  padding-left: 125px;
+  width: 25%;
+}
